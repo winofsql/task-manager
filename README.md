@@ -10,5 +10,8 @@
 ## 常に手前に表示( キャプチャ時に他のウインドウの一部を隠す )
 ![image](https://user-images.githubusercontent.com/1501327/204114315-dab0ccdc-5d8e-430a-b840-bee2dd6e62b7.png)
 
+![image](https://user-images.githubusercontent.com/1501327/204119357-4d2564fc-7a53-4b8c-9414-3480c8750e22.png)
+
+
 ## 規定のタブ
 ![image](https://user-images.githubusercontent.com/1501327/204119107-391538fd-2935-4846-b3ae-5daf93292981.png)
