@@ -25,4 +25,10 @@
 - ## 列の選択
   ![image](https://user-images.githubusercontent.com/1501327/204119689-9603094f-e137-4470-848e-728337f6e3b2.png)
 
-  ![image](https://user-images.githubusercontent.com/1501327/204119707-bad88353-4994-4a7c-8767-f01f2b22018c.png)
+  ![image](https://user-images.githubusercontent.com/1501327/204119707-bad88353-4994-4a7c-8767-f01f2b22018c.png
+  
+  
+- ## 列単位の列幅自動調整( 列タイトル境界をダブルクリック )
+  ![image](https://user-images.githubusercontent.com/1501327/204120139-12e1c3fe-0142-4a67-bbb5-6c4775526e6e.png)
+
+  
