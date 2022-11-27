@@ -21,3 +21,6 @@
   
 - ## カラムデータの列幅自動調整 : CTRL + テンキーのプラスキー
   ![image](https://user-images.githubusercontent.com/1501327/204119647-062a08d7-b6f5-4075-9969-40a9c3b37298.png)
+  
+- ## 列の選択
+  ![image](https://user-images.githubusercontent.com/1501327/204119689-9603094f-e137-4470-848e-728337f6e3b2.png)
