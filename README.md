@@ -24,3 +24,5 @@
   
 - ## 列の選択
   ![image](https://user-images.githubusercontent.com/1501327/204119689-9603094f-e137-4470-848e-728337f6e3b2.png)
+
+  ![image](https://user-images.githubusercontent.com/1501327/204119707-bad88353-4994-4a7c-8767-f01f2b22018c.png)
