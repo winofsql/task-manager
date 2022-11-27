@@ -21,7 +21,7 @@
 
 
 - ## 規定のタブ
-  ![image](https://user-images.githubusercontent.com/1501327/204119107-391538fd-2935-4846-b3ae-5daf93292981.png
+  ![image](https://user-images.githubusercontent.com/1501327/204119107-391538fd-2935-4846-b3ae-5daf93292981.png)
   
   
 - ## カラムデータの列幅自動調整 : CTRL + テンキーのプラスキー ( 詳細とサービス : ノーマル ListView コントロール )
