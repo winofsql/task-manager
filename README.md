@@ -1,9 +1,9 @@
-# task-manager
+# task-manager : CTRL + SHIFT + ESC
 
 - ## CTRL + C で行データコピー
   ![image](https://user-images.githubusercontent.com/1501327/204114010-807b9c19-74e5-480d-b8db-3214df7cceb6.png)
 
-- ## CTRL + SHIFT + ESC
+- ## ファイル名を指定して実行と同様
   ![image](https://user-images.githubusercontent.com/1501327/204114200-02adb06a-1f1f-4d05-990c-67b484feb42f.png)
 
   - ### 管理者権限で実行可能
