@@ -1,8 +1,9 @@
 # task-manager : CTRL + SHIFT + ESC
 
-|  |  |  |  |  |  |  |  | 
-| -- | -- | -- | -- | -- | -- | -- | -- | 
-| [CTRL + C で行データコピー](#user-content--c) | [ファイル名を指定して実行と同様](#user-content--java) | [常に手前に表示](#user-content--php) | [規定のタブ](#user-content--jquery) | [カラムデータの列幅自動調整](#user-content--javascript) | [列の選択](#user-content--html) | [列単位の列幅自動調整](#user-content--google-apps-script) |  |
+|  |  |  |  |
+| -- | -- | -- | -- |
+| [CTRL + C で行データコピー](#user-content--c) | [ファイル名を指定して実行と同様](#user-content--java) | [常に手前に表示](#user-content--php) | [規定のタブ](#user-content--jquery) | 
+| [カラムデータの列幅自動調整](#user-content--javascript) | [列の選択](#user-content--html) | [列単位の列幅自動調整](#user-content--google-apps-script) |  |
 
 - ## CTRL + C で行データコピー
   ![image](https://user-images.githubusercontent.com/1501327/204114010-807b9c19-74e5-480d-b8db-3214df7cceb6.png)
