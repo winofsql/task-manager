@@ -7,6 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/204114283-4a03231a-51f2-4a2e-9305-2ca8886ae76d.png)
 
+## 常に手前に表示( キャプチャ時に他のウインドウの一部を隠す )
 ![image](https://user-images.githubusercontent.com/1501327/204114315-dab0ccdc-5d8e-430a-b840-bee2dd6e62b7.png)
 
 ## 規定のタブ
