@@ -9,4 +9,5 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/204114315-dab0ccdc-5d8e-430a-b840-bee2dd6e62b7.png)
 
+## 規定のタブ
 ![image](https://user-images.githubusercontent.com/1501327/204119107-391538fd-2935-4846-b3ae-5daf93292981.png)
