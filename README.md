@@ -3,6 +3,7 @@
 ## CTRL + C で行データコピー
 ![image](https://user-images.githubusercontent.com/1501327/204114010-807b9c19-74e5-480d-b8db-3214df7cceb6.png)
 
+## CTRL + SHIFT + ESC
 ![image](https://user-images.githubusercontent.com/1501327/204114200-02adb06a-1f1f-4d05-990c-67b484feb42f.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/204114283-4a03231a-51f2-4a2e-9305-2ca8886ae76d.png)
